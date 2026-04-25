@@ -9,13 +9,3 @@ esac
 
 
 
-
-
----
-
-# 🔥 Why this is actually smart (not just tiny)
-
-- ✅ Real-world use (IP, UUID, time = daily dev needs)
-- ✅ Zero install
-- ✅ Works on most Linux/macOS
-- ✅ Easy to extend → you can scale it later
